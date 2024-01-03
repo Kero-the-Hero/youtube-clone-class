@@ -21,3 +21,12 @@
  - NPM은 node JS와 함께 쓰여야 한다는 뜻
  - 이미 만들어진 패키지를 가지고 쉽게 개발에 착수 할 수 있다
  - 패키지들을 검색하는 건 npmjs.com에 가서 해보자
+
+
+ #2.0 My first NodeJS Project
+  - NodejS를 시작하는 법!
+   1. 폴더를 만든다
+   2. package.json이라는 파일을 만든다.
+  - NodeJS 프로젝트를 만들 때 가장 먼저 만들어야 하는 파일이며 항상 파일명은 package.json으로 할 것!
+  - json 직접 만들면 실수 할 수도 있겠지?
+  - 
